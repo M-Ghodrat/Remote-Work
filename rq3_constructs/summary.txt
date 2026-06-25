@@ -1,0 +1,23 @@
+RQ3 -- centrality of psychosocial constructs (Option C)
+Concept network: 24 concept nodes, 170 edges (PPMI-weighted, min 3 co-occurrences).
+Co-occurrence is ASSOCIATIONAL, not causal. Concept-net depends on the fixed vocabulary.
+
+(B) TRUE construct centrality -- target constructs ranked by composite:
+  #4  trust                  deg=0.739 bet=0.059 clo=0.793 eig=0.246
+  #5  autonomy               deg=0.783 bet=0.170 clo=0.821 eig=0.098
+  #15  psychological safety   deg=0.391 bet=0.071 clo=0.622 eig=0.249
+  #16  technostress           deg=0.478 bet=0.040 clo=0.657 eig=0.255
+  #17  belonging              deg=0.522 bet=0.032 clo=0.676 eig=0.228
+  #24  surveillance           deg=0.261 bet=0.000 clo=0.575 eig=0.146
+
+(A) Construct-focused PAPERS -- bridge strength (share spanning multiple communities):
+  trust                  primary=C4  spans=0 1 2 3 4 5  bridge_strength=0.667
+  psychological safety   primary=C4  spans=0 1 2 3 4  bridge_strength=0.372
+  surveillance           primary=C5  spans=0 1 2 5  bridge_strength=0.438
+  autonomy               primary=C1  spans=0 1 2 3 4 5  bridge_strength=0.734
+  belonging              primary=C2  spans=0 1 2 3 4  bridge_strength=0.595
+  technostress           primary=C1  spans=0 1 2 3  bridge_strength=0.638
+
+RQ3 ANSWER SKELETON (fill from tables):
+  Most structurally central constructs (concept-net composite): trust, autonomy, psychological safety
+  Strongest cross-community bridges (anchored): autonomy, trust, technostress

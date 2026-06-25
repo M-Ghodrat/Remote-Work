@@ -1,0 +1,388 @@
+filename,community,benefit_hits,risk_hits,class_thr1,benefit_anchors_fired,risk_anchors_fired
+ Who Knows Me Understands My Needs   The Effect of Home-Based Telework on Work Engagement.pdf,1,5,1,both,autonomy|engagement|productivity|satisfaction|support,isolation
+%5B2024%5D10.4473_TPM31.4.3.pdf,1,2,5,both,autonomy|flexibility,technostress|isolation|overload|stress|strain
+00385-AAAI23.SarkarP.pdf,3,0,1,risk_only,,fatigue
+0597.pdf,3,6,3,both,wellbeing|productivity|satisfaction|collaboration|support|commitment,technostress|overload|stress
+0648.pdf,4,4,0,benefit_only,well-being|collaboration|inclusion|support,
+0718-2724-jotmi-20-01-27.pdf,1,0,3,risk_only,,technostress|exhaustion|stress
+09.pdf,3,6,4,both,flexibility|trust|wellbeing|satisfaction|collaboration|support,isolation|conflict|stress|loneliness
+1-s2.0-S0001691825001957-main.pdf,3,2,3,both,engagement|well-being,technostress|overload|stress
+1-s2.0-S0001691825013344-main.pdf,1,2,6,both,well-being|collaboration,burnout|technostress|fatigue|exhaustion|stress|strain
+1-s2.0-S0001691825014994-main.pdf,1,5,5,both,autonomy|flexibility|wellbeing|well-being|support,burnout|technostress|isolation|conflict|stress
+1-s2.0-S0001691826002891-main.pdf,4,4,1,both,trust|engagement|collaboration|support,strain
+1-s2.0-S0001879125000156-main.pdf,3,4,2,both,flexibility|belonging|satisfaction|support,isolation|loneliness
+1-s2.0-S0040162523007503-main.pdf,1,3,3,both,satisfaction|collaboration|support,technostress|stress|strain
+1-s2.0-S0090261624000457-main.pdf,4,4,1,both,trust|well-being|collaboration|inclusion,conflict
+1-s2.0-S014362282300019X-main.pdf,2,2,4,both,autonomy|flexibility,technostress|stress|monitoring|strain
+1-s2.0-S0148296322004805-main.pdf,3,2,2,both,flexibility|trust,monitoring|loneliness
+1-s2.0-S0148296322005422-main.pdf,3,0,4,risk_only,,burnout|fatigue|exhaustion|strain
+1-s2.0-S0160791X24003105-main.pdf,3,7,1,both,flexibility|engagement|wellbeing|productivity|satisfaction|support|commitment,burnout
+1-s2.0-S0191886922004603-main.pdf,1,2,3,both,engagement|well-being,isolation|stress|loneliness
+1-s2.0-S0263786324000656-main.pdf,4,5,3,both,autonomy|flexibility|engagement|collaboration|support,burnout|conflict|stress
+1-s2.0-S0360132323009368-main.pdf,2,5,3,both,belonging|engagement|well-being|productivity|commitment,isolation|stress|loneliness
+1-s2.0-S0965856424001186-main.pdf,1,2,0,benefit_only,flexibility|support,
+1-s2.0-S1029313222000343-main.pdf,4,2,0,benefit_only,trust|collaboration,
+1-s2.0-S1877050924015229-main.pdf,3,6,1,both,flexibility|engagement|wellbeing|satisfaction|support|commitment,stress
+1-s2.0-S2214367X26000220-main.pdf,2,0,1,risk_only,,monitoring
+1-s2.0-S2451958823000842-main.pdf,3,1,0,benefit_only,collaboration,
+10-1108_IJM-12-2022-0628.pdf,0,2,4,both,well-being|support,burnout|conflict|exhaustion|stress
+10-1108_MRR-11-2022-0806.pdf,0,9,5,both,autonomy|flexibility|trust|engagement|well-being|productivity|satisfaction|support|commitment,burnout|isolation|conflict|stress|loneliness
+10.1177_00221465221150283.pdf,2,2,4,both,well-being|satisfaction,burnout|conflict|stress|strain
+10.1515_soeu-2024-0030.pdf,0,5,1,both,flexibility|trust|productivity|collaboration|support,burnout
+10.2478_subboec-2022-0012.pdf,1,5,3,both,autonomy|flexibility|engagement|well-being|satisfaction,burnout|isolation|exhaustion
+10.30798-makuiibf.1443319-3755769.pdf,3,3,5,both,flexibility|well-being|satisfaction,burnout|technostress|isolation|conflict|stress
+10869_2022_Article_9842.pdf,1,4,4,both,engagement|well-being|satisfaction|support,isolation|overload|conflict|stress
+1094210ar.pdf,2,1,1,both,autonomy,stress
+1101313ar.pdf,1,1,0,benefit_only,autonomy,
+1112222ar.pdf,5,2,2,both,well-being|productivity,surveillance|stress
+1154182.pdf,3,4,5,both,flexibility|engagement|well-being|productivity,technostress|overload|conflict|exhaustion|stress
+126836-how-remote-work-changes-communication-in-organizations.pdf,4,2,0,benefit_only,trust|productivity,
+136-145.pdf,2,3,0,benefit_only,well-being|productivity|collaboration,
+14-Article Text-25-1-10-20241030.pdf,2,7,6,both,autonomy|flexibility|engagement|well-being|satisfaction|collaboration|support,fatigue|isolation|conflict|exhaustion|stress|strain
+15.pdf,4,2,1,both,trust|support,loneliness
+1549-6151-2-PB.pdf,2,5,2,both,flexibility|engagement|well-being|productivity|collaboration,isolation|stress
+170-178.pdf,4,6,1,both,autonomy|trust|belonging|productivity|collaboration|inclusion,isolation
+2011-2084-ijpr-18-02-13.pdf,1,3,1,both,autonomy|trust|support,conflict
+2022-54402-001.pdf,3,3,6,both,well-being|satisfaction|support,technostress|isolation|overload|conflict|stress|strain
+2022_Canadian%20Psychology_Manuscript.pdf,1,1,2,both,commitment,conflict|stress
+2024-work-in-america-report.pdf,1,3,1,both,productivity|satisfaction|support,monitoring
+2024_Jeffries_Amy_BSc_IM.pdf,2,2,0,benefit_only,belonging|support,
+"22.+2023.+3(2).+Juli.+Irfan,+Didit,+da+Costa+(161-168).pdf",1,5,2,both,flexibility|well-being|productivity|collaboration|support,fatigue|stress
+2238-7863-1-PB.pdf,4,0,0,neither,,
+23+-+25380.pdf,4,1,0,benefit_only,support,
+2505.15743v1.pdf,2,6,1,both,flexibility|trust|engagement|productivity|satisfaction|support,conflict
+2599990.2600011.pdf,1,0,7,risk_only,,technostress|isolation|overload|conflict|exhaustion|stress|strain
+29-The impact of telework on organisational performance_ behaviour_ and culture_ evidence from bu.pdf,1,2,0,benefit_only,trust|satisfaction,
+3.+Upload+Rhienta.pdf,3,6,2,both,autonomy|flexibility|well-being|productivity|collaboration|support,technostress|stress
+30.pdf,3,6,1,both,trust|engagement|well-being|collaboration|support|commitment,monitoring
+307.Psychological-Safety-and-Inclusion-in-Virtual-Teams_-Lessons-from-Multinational-Organizations.pdf,4,8,1,both,flexibility|trust|engagement|well-being|satisfaction|collaboration|inclusion|commitment,isolation
+31e2705b-ee0c-4339-9fd5-35b18da1bc19.pdf,1,2,0,benefit_only,autonomy|well-being,
+3524-11217-1-PB.pdf,3,4,5,both,autonomy|flexibility|well-being|support,burnout|overload|exhaustion|stress|strain
+35298-Full article-69125-1-10-20241128.pdf,5,4,2,both,trust|satisfaction|support|commitment,surveillance|monitoring
+3599609.3599621.pdf,0,7,3,both,autonomy|flexibility|trust|belonging|productivity|satisfaction|support,burnout|exhaustion|stress
+3710902.pdf,5,4,4,both,autonomy|trust|productivity|support,burnout|surveillance|stress|monitoring
+3757685.pdf,4,6,2,both,trust|engagement|well-being|productivity|collaboration|support,burnout|strain
+3772318.3791525.pdf,5,5,2,both,autonomy|trust|engagement|productivity|collaboration,surveillance|monitoring
+417-424-4-Hybrid+Work+Leadership+Balancing+Productivity+and+Employee+Well-being.pdf,4,9,6,both,autonomy|flexibility|trust|engagement|well-being|productivity|collaboration|inclusion|support,burnout|fatigue|isolation|exhaustion|stress|monitoring
+4494.pdf,2,3,0,benefit_only,belonging|productivity|collaboration,
+5401-Article Text-14326-1-10-20250923.pdf,3,3,2,both,flexibility|engagement|support,stress|monitoring
+6-ISROSET-IJSRCSE-094561.pdf,5,6,1,both,autonomy|flexibility|trust|well-being|productivity|support,monitoring
+64K_Hybrid+Work+Fatigue+on+Psychological+and+Organizational+Factors+Influencing+Employee+Well-Being+Evidence+by+Segari.pdf,3,7,4,both,autonomy|flexibility|engagement|well-being|productivity|collaboration|support,fatigue|overload|exhaustion|stress
+6667f993bbb09.pdf,2,11,5,both,autonomy|flexibility|trust|belonging|engagement|well-being|productivity|satisfaction|collaboration|inclusion|support,surveillance|isolation|conflict|monitoring|loneliness
+694-Rebecca-Work-Life-Balance-Draft2.pdf,1,0,1,risk_only,,conflict
+7.pdf,5,2,1,both,trust|productivity,monitoring
+708.pdf,3,6,2,both,engagement|well-being|productivity|satisfaction|collaboration|support,exhaustion|stress
+709-Article+Text-3048-1-11-20250128+(1).pdf,5,6,3,both,autonomy|trust|well-being|productivity|satisfaction|support,surveillance|stress|monitoring
+78.+Exploring+Emotional+Intelligence%2C+Remote+Work+Dynamics%2C+Team+Collaboration%2C+and+Adaptive+Leadership+for+Enhanced+Success+in+the+Digital+Workplace.pdf,4,7,1,both,flexibility|trust|engagement|productivity|satisfaction|collaboration|support,isolation
+891-908+Mustajab.pdf,2,6,1,both,flexibility|well-being|productivity|satisfaction|collaboration|commitment,isolation
+8aff1a74-en.pdf,1,1,0,benefit_only,satisfaction,
+8da9a341-5af7-43fc-9e18-04fdffb64ea0.pdf,1,5,2,both,engagement|well-being|satisfaction|support|commitment,overload|exhaustion
+95-106+OIKONOMIA+310.pdf,3,8,2,both,flexibility|trust|engagement|well-being|productivity|satisfaction|collaboration|support,isolation|monitoring
+978-3-031-94544-1_3.pdf,4,9,0,benefit_only,autonomy|flexibility|belonging|well-being|productivity|satisfaction|collaboration|inclusion|support,
+AJESD_1LVNGBSU.pdf,2,8,1,both,autonomy|flexibility|trust|belonging|well-being|productivity|collaboration|inclusion,isolation
+A_Qualitative_Study_of_Pandemi.pdf,1,4,1,both,trust|productivity|satisfaction|support,exhaustion
+A_millennial_manager_skills_mo.pdf,0,7,2,both,flexibility|trust|well-being|productivity|satisfaction|support|commitment,isolation|conflict
+Adascalitei-Riso_Employee-monitoring-on-remote-work_Sinappsi_n2_20242.pdf,5,3,1,both,autonomy|flexibility|productivity,monitoring
+After-Hours_Availability_Expec.pdf,1,1,0,benefit_only,well-being,
+Applied Psychology - 2023 - Hodzic - When telework is a burden rather than a perk  The roles of knowledge sharing and.pdf,0,7,4,both,autonomy|flexibility|engagement|well-being|productivity|satisfaction|support,isolation|exhaustion|stress|loneliness
+Applied Psychology - 2023 - Schulze - The relationship between telework and job characteristics  A latent change score.pdf,1,2,0,benefit_only,autonomy|support,
+Article-5.pdf,4,3,0,benefit_only,belonging|engagement|collaboration,
+Artikel+Galleys+Oshada-2229.pdf,3,4,7,both,flexibility|well-being|productivity|support,burnout|fatigue|overload|conflict|exhaustion|stress|strain
+Ball.pdf,5,0,2,risk_only,,surveillance|monitoring
+Beurden_van_0960664_ABP_Appel_-_Meulenbroek_MSc_thesis.pdf,2,1,0,benefit_only,productivity,
+Blind_MS_IJHRM_9_TH_Jan_25_R3_1_.pdf,2,3,3,both,engagement|well-being|support,technostress|conflict|stress
+Canadian Review of Sociology - 2023 - Thompson - Workplace Surveillance in Canada  A survey on the adoption and use of.pdf,5,1,2,both,productivity,surveillance|monitoring
+"Cavalcante, Bianchi, Schonfeld, Martins, Cameira, Queiros, 2025, telework, hybrid work.pdf",1,2,5,both,engagement|well-being,burnout|fatigue|overload|exhaustion|stress
+Chapter_07A.pdf,4,3,1,both,flexibility|productivity|collaboration,strain
+"Chernoglazova, Lena_MSc Dissertation.pdf",2,4,1,both,belonging|collaboration|inclusion|support,isolation
+Connecting work teams in a remote workplace  an identity leadership perspective.pdf,2,4,3,both,engagement|productivity|satisfaction|collaboration,conflict|stress|loneliness
+Cousineauetal.pdf,5,2,2,both,well-being|productivity,surveillance|monitoring
+Craftingtelework_Aprocessmodel_PR.pdf,0,3,3,both,autonomy|productivity|satisfaction,isolation|conflict|stress
+Cultivating_Belonging_During_O.pdf,2,3,0,benefit_only,belonging|engagement|support,
+Daily_Routine_and_Performance_Analysis_-_Parallel_Between_Telework_and_Work_from_the_Office.pdf,1,5,4,both,autonomy|flexibility|trust|productivity|support,fatigue|isolation|stress|monitoring
+DelanoeijeVerbruggen2024_JOHP_Biophilia_in_the_homeworkplace_ACCEPTEDversion.pdf,1,2,1,both,well-being|support,loneliness
+Di+Dalmazi+et+al.%282022%29.pdf,1,2,5,both,engagement|wellbeing,technostress|fatigue|overload|stress|strain
+Dialnet-Telework-10668357.pdf,1,1,3,both,productivity,technostress|fatigue|stress
+Dialnet-TheImportanceOfTrustInCultivatingEmployeeLoyaltyAn-8994341.pdf,3,3,0,benefit_only,trust|well-being|productivity,
+DigitalFatigueandEmployeeEngagementinHybridWorkAMultilevelPerspective.pdf,3,7,4,both,autonomy|flexibility|engagement|well-being|productivity|support|commitment,fatigue|exhaustion|stress|strain
+Disentangling_the_implications.pdf,0,4,6,both,flexibility|well-being|satisfaction|commitment,fatigue|isolation|conflict|stress|strain|loneliness
+Does work-life boundary management improve work-life balance for.pdf,2,4,0,benefit_only,autonomy|flexibility|well-being|inclusion,
+EBSCO-FullText-06_01_2026-2.pdf,0,3,1,both,belonging|inclusion|support,conflict
+EBSCO-FullText-06_01_2026.pdf,4,3,0,benefit_only,belonging|inclusion|support,
+EBSCO-FullText-06_02_2026-2.pdf,2,6,4,both,autonomy|well-being|productivity|satisfaction|collaboration|support,burnout|surveillance|stress|monitoring
+EBSCO-FullText-06_02_2026-3.pdf,0,1,2,both,support,conflict|monitoring
+EBSCO-FullText-06_02_2026.pdf,2,2,3,both,autonomy|flexibility,surveillance|conflict|stress
+EBSCO-FullText-06_10_2026.pdf,2,3,3,both,wellbeing|well-being|satisfaction,conflict|stress|loneliness
+ECIS2016_HafermalzRiemer_Belonging_Remote_Work.pdf,2,4,2,both,flexibility|belonging|wellbeing|support,isolation|loneliness
+ESP-3420%20Proofread%20%281%29.pdf,3,6,6,both,flexibility|engagement|well-being|productivity|inclusion|support,technostress|fatigue|overload|exhaustion|stress|strain
+Employee+Perspectives+on+Remote+Work+Culture+and+Leadership+in+Hybrid+Organisations.pdf,4,8,0,benefit_only,flexibility|trust|belonging|engagement|productivity|satisfaction|support|commitment,
+Employees’_fit_to_telework_and.pdf,0,6,4,both,engagement|well-being|productivity|satisfaction|inclusion|support,burnout|isolation|conflict|exhaustion
+Engagement_in_the_teleworking_.pdf,0,4,0,benefit_only,autonomy|flexibility|engagement|inclusion,
+Evolving_approaches_to_employe.pdf,0,3,1,both,autonomy|engagement|support,stress
+Exploring_the_nexus_between_re.pdf,0,3,1,both,engagement|productivity|support,stress
+Exploring_the_nexus_of_social_.pdf,0,7,3,both,autonomy|flexibility|well-being|satisfaction|collaboration|inclusion|support,burnout|exhaustion|stress
+Exploring_the_remote_work_chal.pdf,0,3,0,benefit_only,engagement|well-being|collaboration,
+FULLTEXT01 copy.pdf,2,4,0,benefit_only,belonging|well-being|collaboration|support,
+FULLTEXT01-2.pdf,2,5,0,benefit_only,belonging|engagement|productivity|satisfaction|support,
+FULLTEXT01.pdf,4,5,0,benefit_only,trust|engagement|collaboration|inclusion|support,
+Fonner-CommMonogr12.pdf,1,3,2,both,autonomy|flexibility|belonging,isolation|stress
+Fostering a culture of belonging within women working in a hybrid.pdf,4,3,0,benefit_only,belonging|satisfaction|inclusion,
+From_home_to_office_dynamics_.pdf,0,4,3,both,flexibility|engagement|well-being|support,burnout|exhaustion|stress
+G22THFL-034862T.pdf,2,0,0,neither,,
+GSCARR-2024-0261.pdf,2,5,0,benefit_only,flexibility|engagement|well-being|satisfaction|collaboration,
+Gender_differences_in_remote_w.pdf,0,2,2,both,well-being|productivity,conflict|stress
+HPSCONF-V21-1-18.pdf,4,8,1,both,autonomy|flexibility|trust|engagement|productivity|satisfaction|collaboration|support,conflict
+"Healthy,_healthier,_hybrid_wor.pdf",0,5,3,both,autonomy|well-being|productivity|satisfaction|collaboration,burnout|stress|strain
+Hewitt+Note+-+Panoptic+Employment+8.8.24.pdf,5,1,2,both,productivity,surveillance|monitoring
+How_and_When_Technostress_Pred.pdf,1,2,4,both,well-being|productivity,technostress|conflict|exhaustion|stress
+How_far_can_I_trust_you_Under.pdf,0,1,1,both,trust,conflict
+Human Behavior and Emerging Technologies - 2024 - Laksanadjaja - Uncovering the Web of Secrets Surrounding Employee.pdf,5,4,3,both,trust|well-being|productivity|satisfaction,surveillance|stress|monitoring
+Human Behavior and Emerging Technologies - 2025 - Massa - E%E2%80%90Skill Self%E2%80%90Efficacy and Perceived Performance in Remote Work  A.pdf,3,4,3,both,autonomy|flexibility|well-being|productivity,technostress|overload|stress
+Human_Centric_Digital_Transformation_and_Operator_4.0_for_the_Oil_and_Gas_Industry.pdf,0,1,1,both,support,conflict
+Hybrid workers describe aspects that promote effectiveness  work engagement  work-life balance  and health.pdf,3,6,0,benefit_only,autonomy|flexibility|engagement|well-being|collaboration|support,
+Hybrid_working_–_Benefits_and_.pdf,0,2,1,both,well-being|productivity,burnout
+"IJEMR+vol.+4,+no.+3,+Page+426-437.pdf",1,4,4,both,flexibility|well-being|satisfaction|support,burnout|technostress|isolation|stress
+IJETCSIT-V6I3P108.pdf,4,4,7,both,trust|engagement|productivity|collaboration,burnout|fatigue|overload|conflict|stress|monitoring|strain
+IJSRA-2025-2470.pdf,2,8,1,both,flexibility|trust|belonging|engagement|well-being|productivity|collaboration|commitment,isolation
+ILR-161-289.pdf,2,3,3,both,flexibility|well-being|support,surveillance|isolation|monitoring
+Ibrahim.pdf,0,6,5,both,flexibility|engagement|well-being|productivity|inclusion|support,burnout|technostress|overload|stress|strain
+Impact_of_employee_well-being_.pdf,0,2,2,both,flexibility|well-being,isolation|stress
+"Impact_of_stress,_job_satisfac.pdf",0,6,2,both,flexibility|well-being|satisfaction|collaboration|inclusion|support,conflict|stress
+Impact_of_work_from_home_on_work_life_ba.pdf,3,1,1,both,support,conflict
+Inclusion_and_Psychological_Sa.pdf,4,5,0,benefit_only,belonging|well-being|inclusion|support|commitment,
+Information Systems Journal - 2023 - Meier - Cooking a telework theory with causal recipes  Explaining telework success.pdf,0,1,3,both,satisfaction,conflict|exhaustion|stress
+Int J Management Reviews - 2025 - Ferdous - An integrated framework of remote work from organizational adoption to employee.pdf,3,1,2,both,well-being,isolation|stress
+J Management Studies - 2025 - Tr%C3%B6ster - How Hybrid Work Shapes Communication Ties  The Role of Concern about Relationship.pdf,4,0,1,risk_only,,isolation
+J Occupat   Organ Psyc - 2024 - Scheibe - Age%E2%80%90related differences in the use of boundary management tactics when.pdf,1,2,1,both,productivity|support,isolation
+JABS-2024JanMappingtheexperiencesofwork-life.Scopus.pdf,0,5,4,both,flexibility|engagement|well-being|productivity|commitment,isolation|overload|conflict|exhaustion
+JFerreras_Dissertation_Fall2024.pdf,3,0,0,neither,,
+Journal of Advanced Nursing - 2021 - Terkamo%E2%80%90Moisio - Towards remote leadership in health care  Lessons learned from an.pdf,4,4,0,benefit_only,trust|satisfaction|collaboration|inclusion,
+Keser-Ertemsir-Basol.pdf,1,4,3,both,well-being|productivity|satisfaction|support,burnout|isolation|stress
+Leadership in virtual work settings  what we know  what we do not know  and what we need to do.pdf,4,2,0,benefit_only,satisfaction|collaboration,
+Lechner%20%2B%20Tobias%202021OD_How%20to%20create%20psychological%20safety%20in%20virtual%20teams_Accepted%20Manuscript%20%281%29.pdf,4,3,0,benefit_only,trust|collaboration|support,
+Manager_Control_and_Employee_Isolation_I.pdf,1,2,3,both,autonomy|productivity,isolation|stress|monitoring
+Managing_Performance_and_Building_Digital_Trust_in.pdf,2,8,1,both,autonomy|flexibility|trust|engagement|well-being|productivity|satisfaction|collaboration,monitoring
+Manuscript.pdf,2,5,2,both,autonomy|well-being|productivity|collaboration|support,technostress|stress
+Manuscript_IRJMS_01841_WS.pdf,2,5,4,both,flexibility|engagement|well-being|productivity|satisfaction,burnout|conflict|exhaustion|stress
+Master_Thesis_Final_-_Layal_Alkhatib_and_Arsaf.pdf,4,2,1,both,flexibility|support,monitoring
+Master_Thesis_PabloVelazco_RaffaelBless_1.pdf,4,3,0,benefit_only,trust|collaboration|support,
+MelusoJohnsonBagrow2021FlexibleEnvironmentsforHybridCollaboration.pdf,2,2,2,both,flexibility|collaboration,fatigue|isolation
+Navigating_the_change_explori.pdf,0,6,1,both,autonomy|trust|productivity|satisfaction|collaboration|support,stress
+New Technol Work Employ - 2023 - Wieser - Employee acceptance of digital monitoring systems while working from home.pdf,5,1,2,both,trust,surveillance|monitoring
+New Technol Work Employ - 2024 - Williams - Framing algorithmic management  Constructed antagonism on HR technology.pdf,0,2,2,both,autonomy|productivity,surveillance|monitoring
+Organizational_identification_among_virt.pdf,4,1,2,both,support,isolation|stress
+Osuva_Myllymäki_Smale_Sumelius_2024.pdf,3,3,1,both,trust|engagement|support,monitoring
+Out of sight out of mind? Remote work and contractual distancing.pdf,2,5,1,both,autonomy|trust|well-being|productivity|inclusion,isolation
+PAGANIN+Videoconference+fatigue+AM.pdf,1,1,5,both,well-being,burnout|technostress|fatigue|exhaustion|stress
+Paper+2+(2023.5.6)+Assessing+the+Impact+of+a+Hybrid+Work+Model+on+Job+Execution+....pdf,3,7,1,both,flexibility|engagement|well-being|productivity|satisfaction|collaboration|inclusion,stress
+PersonnelPsychology-2022-Ravid-AmetaE28090analysisoftheeffectsofelectronicperformancemonitoringonworkoutcomes.pdf,5,5,2,both,autonomy|productivity|satisfaction|support|commitment,stress|monitoring
+Piirsalu_Kivihall_Makiniemi_2025.pdf,1,5,3,both,autonomy|flexibility|well-being|collaboration|support,overload|stress|strain
+Productive and connected while working from home  what client-facing remote workers can learn from telenurses about  belonging through technology .pdf,2,6,2,both,autonomy|flexibility|belonging|wellbeing|productivity|support,isolation|stress
+Promoting_health_and_productiv.pdf,1,5,4,both,engagement|well-being|productivity|satisfaction|collaboration,technostress|surveillance|stress|monitoring
+PsychologicalCapitalandBurnout_GKMC.pdf,0,5,6,both,autonomy|flexibility|engagement|productivity|satisfaction,burnout|isolation|overload|conflict|exhaustion|stress
+Psychosocial_safety_climate_Measurement.pdf,1,6,4,both,engagement|well-being|productivity|collaboration|support|commitment,burnout|exhaustion|stress|strain
+Public_management_strategies_f.pdf,0,5,1,both,autonomy|flexibility|productivity|satisfaction|support,exhaustion
+REPUB_84468_OA.pdf,3,2,2,both,productivity|collaboration,overload|conflict
+Reducing_employee_burnout_in_t.pdf,4,2,3,both,trust|support,burnout|isolation|stress
+Remote Workers Ever-Present Risk.pdf,5,2,2,both,productivity|inclusion,surveillance|monitoring
+Remote work and work-life balance  Lessons learned from the covid-19 pandemic and suggestions for HRD practitioners.pdf,2,3,2,both,well-being|satisfaction|support,technostress|stress
+RemoteWorkingBurnout_EmpiricalStudyfromTOEandTechnostress.pdf,2,5,4,both,flexibility|productivity|inclusion|support|commitment,burnout|technostress|isolation|stress
+Remote_Work_Impact_on_Workplac.pdf,4,6,1,both,trust|engagement|well-being|productivity|collaboration|support,isolation
+Remote_Worker's_Psychological_.pdf,4,6,1,both,flexibility|trust|engagement|well-being|collaboration|support,stress
+Remotework.pdf,2,3,1,both,trust|productivity|satisfaction,overload
+Remotework2025.pdf,3,6,0,benefit_only,autonomy|engagement|well-being|satisfaction|collaboration|support,
+Remoteworkandhumanresourcemanagement.pdf,2,7,2,both,flexibility|engagement|well-being|productivity|satisfaction|collaboration|support,burnout|monitoring
+Restoring Reasonable Expectations to Privacy at Work in the Face.pdf,5,3,1,both,autonomy|inclusion|support,monitoring
+Revolutionizing work-life balance  Unleashing the power of telecommuting on work engagement and exhaustion levels.pdf,1,2,3,both,engagement|well-being,overload|conflict|exhaustion
+Reworking boundaries in the home-as-office  boundary traffic during COVID-19 lockdown and the future of working from home.pdf,2,3,1,both,flexibility|satisfaction|support,stress
+Roberts_L_2023_EdD.pdf,4,0,0,neither,,
+Ruigrok & Schäfer_Together but still alone.pdf,4,3,0,benefit_only,autonomy|collaboration|commitment,
+SJWEH-51-53.pdf,1,2,1,both,well-being|productivity,monitoring
+Sai+Praveen+Kudapa_Procedia_2025_801–832.pdf,2,4,0,benefit_only,productivity|collaboration|inclusion|support,
+Sbalzer-KM-111.pdf,5,4,3,both,flexibility|trust|satisfaction|collaboration,surveillance|conflict|monitoring
+Social   Personality Psych - 2023 - Stavrova - Does remote work erode trust in organizations  A within%E2%80%90person investigation.pdf,2,7,2,both,autonomy|flexibility|trust|engagement|satisfaction|collaboration|commitment,burnout|isolation
+Sociology Compass - 2022 - Karjalainen - Gender and the blurring boundaries of work in the era of telework A longitudinal.pdf,1,1,0,benefit_only,well-being,
+TEMJournalFebruary2025_823_835.pdf,4,2,2,both,satisfaction|collaboration,conflict|stress
+TPM-V32-S3-2025-90.pdf,3,3,7,both,flexibility|engagement|productivity,burnout|fatigue|overload|conflict|exhaustion|stress|strain
+Technostress_and_Telecommuting_in_the_Co.pdf,1,2,5,both,productivity|support,technostress|fatigue|overload|exhaustion|stress
+Technostress_and_perceived_disadvan.pdf,3,3,3,both,flexibility|engagement|satisfaction,technostress|stress|strain
+Technostress_and_work_exhaustion_unravel.pdf,2,5,6,both,flexibility|well-being|productivity|satisfaction|commitment,technostress|fatigue|overload|conflict|exhaustion|stress
+Telecommuting_Professional_Isolation_and.pdf,1,1,1,both,flexibility,isolation
+Telecommuting_and_Leadership_Style_Publi.pdf,1,2,1,both,satisfaction|commitment,isolation
+Telework and Organizational Citizenship Behaviors_ The Underexplo.pdf,1,1,1,both,satisfaction,isolation
+Telework_Perception_and_Implications_dur.pdf,1,2,0,benefit_only,autonomy|support,
+Teleworking_role_of_psycholog.pdf,0,6,4,both,flexibility|trust|belonging|wellbeing|well-being|satisfaction,technostress|isolation|stress|strain
+Tesi_dottorato_Massa.pdf,1,3,3,both,autonomy|well-being|satisfaction,overload|exhaustion|stress
+The Impact of Work Setting Autonomy and Belonging on Employees?.pdf,3,4,0,benefit_only,autonomy|belonging|satisfaction|inclusion,
+The effectiveness of well-being-oriented human resource management in the context of telework.pdf,1,5,2,both,autonomy|engagement|well-being|satisfaction|support,isolation|strain
+The impact of remote work and mediated communication frequency on isolation and psychological distress.pdf,2,4,3,both,wellbeing|satisfaction|inclusion|support,isolation|stress|strain
+TheEvolutionofRemoteWorkAnalyzingStrategiesforEffectiveVirtualTeamManagementandCollaboration.pdf,2,4,0,benefit_only,flexibility|trust|productivity|collaboration,
+TheSilentStruggle_UncoveringDigitalStressinHybridWork.pdf,3,5,3,both,flexibility|wellbeing|well-being|productivity|inclusion,isolation|exhaustion|stress
+The_Corporate_Brand_Identity_in_a_Hybrid_Workp.pdf,3,1,0,benefit_only,support,
+The_Psychology_of_Hybrid_Work_Understand.pdf,3,9,5,both,autonomy|flexibility|trust|engagement|well-being|productivity|satisfaction|collaboration|support,burnout|fatigue|overload|stress|strain
+The_moderating_role_of_remote_.pdf,0,4,0,benefit_only,well-being|satisfaction|support|commitment,
+The_telework_performance_dilem.pdf,0,7,4,both,autonomy|flexibility|trust|well-being|productivity|collaboration|support,fatigue|isolation|overload|conflict
+Theeffectsoftechnostressorsonworkandnon-workoutcomesinhybridwork.pdf,3,2,3,both,flexibility|support,technostress|exhaustion|stress
+Theorizing the Effect of Organizational Identification on Vacatio.pdf,2,0,2,risk_only,,burnout|stress
+Togetherness and (work)Place: Insights from Workers and Managers during Australian COVID-Induced Lockdowns.pdf,2,6,0,benefit_only,flexibility|belonging|wellbeing|productivity|collaboration|support,
+Towards_a_sustainable_workplac.pdf,0,4,2,both,trust|wellbeing|productivity|support,isolation|loneliness
+Turnitin%20The%20impact%20of%20digital%20fatigue%20on%20employee%20productivity%20and%20well-being.pdf,3,0,0,neither,,
+Understanding_teleworkers’_tec.pdf,0,4,3,both,flexibility|satisfaction|collaboration|support,technostress|stress|strain
+Understanding_the_Moderating_E.pdf,4,2,1,both,trust|support,exhaustion
+Voluntary_part-time_and_mandat.pdf,0,8,3,both,autonomy|trust|well-being|productivity|satisfaction|collaboration|support|commitment,isolation|conflict|stress
+Wellbeing_Remote.pdf,3,7,2,both,flexibility|engagement|wellbeing|well-being|productivity|satisfaction|collaboration,burnout|stress
+What_is_healthy_hybrid_work_E.pdf,0,4,0,benefit_only,wellbeing|well-being|collaboration|support,
+Wilson 2023 Authoritarian Leadership Style and Psychological Safety.pdf,4,5,1,both,trust|belonging|well-being|inclusion|support,stress
+Work engagement and its antecedents in remote work  A person-centered view.pdf,2,4,1,both,autonomy|engagement|well-being|support,stress
+Work from home can be distracting  Exploring the moderation role of transformational leadership on teleworking and cyber-slacking.pdf,1,2,2,both,flexibility|productivity,fatigue|stress
+Work life balance in the digital era  configuring demands and resources at work.pdf,3,5,3,both,engagement|well-being|productivity|support|commitment,overload|conflict|stress
+a965102-030(2023).pdf,5,2,3,both,flexibility|productivity,burnout|isolation|monitoring
+"admin,+PUBLISH_PAULUS.pdf",4,3,0,benefit_only,trust|engagement|collaboration,
+admsci-13-00055.pdf,0,4,4,both,trust|wellbeing|well-being|commitment,burnout|technostress|exhaustion|stress
+admsci-13-00150.pdf,0,4,1,both,flexibility|well-being|productivity|satisfaction,stress
+admsci-13-00218.pdf,0,5,1,both,engagement|well-being|satisfaction|support|commitment,stress
+admsci-15-00398.pdf,3,8,5,both,autonomy|flexibility|belonging|engagement|well-being|productivity|collaboration|support,technostress|fatigue|isolation|overload|stress
+"agung,+1.+Anthony+Leonard+Limanta+001-016.pdf",1,4,1,both,flexibility|satisfaction|collaboration|support,stress
+ajems-07-2022-0306.pdf,0,2,5,both,engagement|support,burnout|technostress|conflict|stress|strain
+alasoini-2025-reproducing-clan-mechanisms-of-control-in-hybrid-work.pdf,2,2,1,both,trust|support,surveillance
+annurev-orgpsych-110622-060758.pdf,0,3,4,both,belonging|productivity|satisfaction,surveillance|stress|monitoring|strain
+article_109597.pdf,1,3,1,both,flexibility|engagement|well-being,conflict
+article_91370.pdf,1,4,5,both,autonomy|flexibility|trust|support,burnout|overload|conflict|exhaustion|stress
+bartelwrzesniewskiwiesenfeld.pdf,4,1,1,both,belonging,isolation
+behavsci-13-00835.pdf,0,5,2,both,engagement|well-being|productivity|collaboration|support,isolation|stress
+behavsci-13-00916.pdf,0,6,2,both,autonomy|flexibility|well-being|productivity|satisfaction|support,exhaustion|stress
+behavsci-14-00674-v4.pdf,0,3,1,both,engagement|well-being|support,monitoring
+behavsci-15-00095.pdf,0,5,1,both,autonomy|trust|well-being|support|commitment,stress
+boulet-parent-lamarche-2022-paradoxical-effects-of-teleworking-on-workers-well-being-in-the-covid-19-context-a.pdf,1,3,0,benefit_only,flexibility|well-being|support,
+cdc_207491_DS1.pdf,1,4,2,both,flexibility|well-being|satisfaction|support,conflict|stress
+cdc_223707_DS1.pdf,1,3,2,both,satisfaction|support|commitment,conflict|stress
+challenges-13-00014.pdf,0,4,1,both,well-being|productivity|satisfaction|support,burnout
+chychun_effective management.pdf,2,1,0,benefit_only,support,
+content.pdf,3,2,3,both,well-being|support,technostress|isolation|stress
+covid-02-00101-v2.pdf,0,1,2,both,wellbeing,stress|strain
+cyber.2021.0257.pdf,3,3,5,both,well-being|productivity|support,fatigue|isolation|exhaustion|stress|loneliness
+dalessandro-lovell-2024-the-pandemic-stratified-workplace-workspace-employee-sense-of-belonging-and-inequalities-at-work.pdf,2,3,2,both,belonging|satisfaction|inclusion,burnout|stress
+doberstein-charbonneau-2022-alienation-in-pandemic-induced-telework-in-the-public-sector.pdf,1,5,2,both,autonomy|engagement|well-being|productivity|satisfaction,isolation|stress
+"drdujak,+18+-+Komanovics.pdf",5,1,2,both,productivity,surveillance|monitoring
+e2025380.pdf,3,5,8,both,engagement|well-being|productivity|satisfaction|support,burnout|technostress|fatigue|overload|conflict|exhaustion|stress|strain
+er-04-2024-0199en.pdf,2,5,2,both,flexibility|trust|well-being|productivity|support,conflict|stress
+fb24aaec11f23ae04cda9daba6bcbf8b4329.pdf,1,3,1,both,autonomy|satisfaction|support,stress
+feduc-9-1512536.pdf,2,3,2,both,autonomy|well-being|satisfaction,burnout|conflict
+forgp-02-1360373.pdf,1,5,1,both,autonomy|flexibility|wellbeing|satisfaction|commitment,conflict
+forgp-02-1430812.pdf,0,5,3,both,flexibility|wellbeing|productivity|satisfaction|support,isolation|overload|monitoring
+forgp-02-1448894.pdf,3,2,0,benefit_only,flexibility|wellbeing,
+forgp-2-1499248.pdf,1,3,0,benefit_only,autonomy|trust|support,
+fpsyg-13-1016368.pdf,1,5,1,both,belonging|engagement|well-being|satisfaction|support,loneliness
+fpsyg-13-833776.pdf,4,3,1,both,autonomy|engagement|wellbeing,monitoring
+fpsyg-13-863197.pdf,1,5,0,benefit_only,autonomy|flexibility|productivity|support|commitment,
+fpsyg-13-898405.pdf,1,4,3,both,wellbeing|well-being|satisfaction|support,exhaustion|stress|strain
+fpsyg-13-987976.pdf,2,3,3,both,collaboration|support|commitment,technostress|isolation|stress
+fpsyg-13-988105.pdf,4,2,1,both,autonomy|support,monitoring
+fpsyg-14-1065593.pdf,1,1,1,both,autonomy,conflict
+fpsyg-14-1098336.pdf,0,3,4,both,autonomy|well-being|support,isolation|overload|conflict|exhaustion
+fpsyg-14-1099138.pdf,1,0,0,neither,,
+fpsyg-14-1110108.pdf,1,5,1,both,autonomy|flexibility|engagement|productivity|support,conflict
+fpsyg-14-1150707.pdf,1,1,1,both,flexibility,conflict
+fpsyg-14-1155118.pdf,1,1,2,both,wellbeing,burnout|fatigue
+fpsyg-14-1173425.pdf,1,0,5,risk_only,,technostress|fatigue|overload|conflict|stress
+fpsyg-14-1193854.pdf,2,6,7,both,belonging|engagement|wellbeing|productivity|satisfaction|support,burnout|fatigue|isolation|conflict|exhaustion|stress|strain
+fpsyg-15-1383207.pdf,1,1,4,both,engagement,burnout|surveillance|isolation|monitoring
+fpsyg-16-1524804.pdf,3,4,3,both,trust|belonging|well-being|support,isolation|conflict|stress
+fpubh-10-796321.pdf,0,2,6,both,engagement|support,burnout|technostress|isolation|conflict|stress|strain
+g%C3%BCnther-et-al-2022-the-joint-role-of-hrm-and-leadership-for-teleworker-well-being-an-analysis-during-the-covid-19.pdf,1,8,4,both,autonomy|flexibility|trust|engagement|well-being|satisfaction|support|commitment,isolation|conflict|stress|strain
+glavin-et-al-2024-private-eyes-they-see-your-every-move-workplace-surveillance-and-worker-well-being.pdf,5,4,3,both,autonomy|well-being|satisfaction|support,surveillance|stress|monitoring
+"google,+qems_v5_i6_1227-1240_3333.pdf",3,6,0,benefit_only,flexibility|engagement|productivity|satisfaction|collaboration|support,
+gualano-et-al-2022-telework-related-stress-%28terra%29-psychological-and-physical-strain-of-working-from-home-during-the.pdf,1,2,7,both,well-being|support,burnout|technostress|isolation|overload|exhaustion|stress|strain
+guti%C3%A9rrez-crocco-et-al-2023-the-impact-of-remote-work-on-managerial-compliance-changes-in-the-control-regime-over-line.pdf,2,6,2,both,autonomy|flexibility|trust|well-being|productivity|support,conflict|stress
+haun-et-al-2022-boundary-management-and-recovery-when-working-from-home-the-moderating-roles-of-segmentation-preference.pdf,1,2,2,both,well-being|support,exhaustion|stress
+healthcare-11-00446-v2.pdf,0,7,4,both,flexibility|well-being|productivity|satisfaction|collaboration|support|commitment,technostress|isolation|overload|stress
+healthcare-13-01943-v2.pdf,0,7,8,both,autonomy|flexibility|engagement|well-being|productivity|satisfaction|support,burnout|fatigue|isolation|overload|exhaustion|stress|strain|loneliness
+ijerph-18-05458.pdf,0,2,5,both,satisfaction|support,technostress|fatigue|overload|exhaustion|stress
+ijerph-18-10302-v2.pdf,0,1,3,both,wellbeing,burnout|overload|conflict
+ijerph-19-01267.pdf,0,1,0,benefit_only,engagement,
+ijerph-19-02602-v2.pdf,0,4,4,both,autonomy|wellbeing|well-being|support,surveillance|isolation|overload|stress
+ijerph-19-03837-v3.pdf,0,1,2,both,well-being,conflict|stress
+ijerph-19-03879-v2.pdf,0,1,0,benefit_only,well-being,
+ijerph-19-04955-v2.pdf,0,6,3,both,autonomy|wellbeing|productivity|satisfaction|support|commitment,isolation|conflict|stress
+ijerph-19-12016-v3.pdf,0,5,1,both,engagement|well-being|productivity|collaboration|support,stress
+ijerph-20-01811-v2.pdf,0,6,3,both,autonomy|flexibility|trust|wellbeing|productivity|satisfaction,fatigue|exhaustion|loneliness
+ijerph-20-04182.pdf,0,2,4,both,trust|support,isolation|conflict|stress|strain
+ijerph-20-04781.pdf,0,4,4,both,wellbeing|productivity|satisfaction|support,fatigue|conflict|exhaustion|stress
+ijm-05-2022-0223.pdf,0,5,1,both,autonomy|flexibility|well-being|productivity|satisfaction,conflict
+ijwhm-02-2021-0042.pdf,0,4,3,both,well-being|productivity|collaboration|support,stress|monitoring|strain
+intr-01-2025-0041en.pdf,3,4,3,both,autonomy|flexibility|well-being|support,burnout|technostress|stress
+iwad014.pdf,5,2,1,both,productivity|support,surveillance
+jcom-02-2023-0023.pdf,0,2,1,both,well-being|commitment,loneliness
+jeet-08-2024-0023.pdf,0,6,0,benefit_only,autonomy|belonging|engagement|productivity|collaboration|commitment,
+joem-64-e811.pdf,0,4,1,both,autonomy|productivity|satisfaction|support,isolation
+journal.pone.0323385.pdf,1,2,4,both,flexibility|support,technostress|overload|stress|strain
+kim-et-al-2025-navigating-leadership-in-hybrid-or-remote-workplaces-a-systematic-review-of-employee-engagement.pdf,4,8,1,both,autonomy|flexibility|trust|engagement|well-being|productivity|satisfaction|support,isolation
+"leonardobattista,+6+Molè+2+2022+Theme.pdf",5,1,3,both,autonomy,surveillance|stress|monitoring
+lodj-09-2023-0490.pdf,0,6,0,benefit_only,trust|engagement|productivity|satisfaction|collaboration|support,
+main copy.pdf,1,4,1,both,engagement|satisfaction|support|commitment,isolation
+main-2 copy.pdf,2,2,1,both,productivity|satisfaction,conflict
+main-3.pdf,2,4,1,both,flexibility|productivity|satisfaction|support,exhaustion
+mastersthesis_paloly_santhoshkumar_haritha.pdf,3,5,1,both,autonomy|belonging|engagement|inclusion|support,isolation
+merits-03-00010-v2.pdf,0,0,5,risk_only,,fatigue|overload|exhaustion|stress|loneliness
+metselaar-et-al-2022-teleworking-at-different-locations-outside-the-office-consequences-for-perceived-performance-and.pdf,1,4,0,benefit_only,autonomy|flexibility|well-being|satisfaction,
+mohase-et-al-2025-inclusive-leadership-psychological-safety-and-employee-voice-in-remote-and-hybrid-work-employees.pdf,4,0,1,risk_only,,isolation
+mumtaz-2024-working-remotely-feeling-remote-the-role-of-digitally-mediated-communication-in-shaping-the-identity-of.pdf,4,3,0,benefit_only,flexibility|collaboration|support,
+neu_4f18wr938.pdf,4,4,1,both,flexibility|belonging|satisfaction|support,isolation
+neu_ms397g103.pdf,4,3,0,benefit_only,trust|support|commitment,
+nordenmark-vinberg-2023-working-from-home-work-life-conflict-and-mental-wellbeing-in-europe-during-the-covid-19-pandemic.pdf,0,3,4,both,flexibility|wellbeing|support,isolation|conflict|exhaustion|stress
+out.pdf,2,3,1,both,engagement|support|commitment,isolation
+papadonikolaki-morgan-2025-leading-psychologically-safe-digitally-enabled-project-teams.pdf,4,7,1,both,trust|engagement|well-being|productivity|satisfaction|collaboration|support,conflict
+pink-harper-rauhaus-2023-an-examination-of-telework-policies-balancing-work-life-demands-during-the-new-normal.pdf,2,4,2,both,well-being|productivity|inclusion|commitment,isolation|stress
+proceedings-82-00084.pdf,0,6,2,both,autonomy|well-being|productivity|satisfaction|support|commitment,conflict|stress
+qin-2024-the-impact-of-organization-employee-dialogic-communication-on-employee-engagement-in-remote-work.pdf,4,3,1,both,belonging|engagement|satisfaction,isolation
+rTdrqN64CyxbCtsx4mNjVWN.pdf,1,1,0,benefit_only,satisfaction,
+rbmt-21-03-e20221003.pdf,1,4,7,both,flexibility|belonging|productivity|satisfaction,burnout|technostress|fatigue|overload|conflict|exhaustion|stress
+rege-07-2021-0116.pdf,0,3,2,both,flexibility|well-being|support,isolation|conflict
+remote_work_jsis.pdf,3,7,1,both,autonomy|flexibility|well-being|productivity|satisfaction|collaboration|support,monitoring
+s10111-022-00693-4.pdf,1,6,8,both,autonomy|flexibility|belonging|engagement|well-being|satisfaction,burnout|technostress|isolation|overload|conflict|exhaustion|stress|strain
+s10639-025-13459-y.pdf,1,6,3,both,flexibility|engagement|well-being|productivity|satisfaction|support,technostress|overload|stress
+s11482-024-10340-x.pdf,1,6,2,both,autonomy|flexibility|well-being|productivity|satisfaction|support,stress|strain
+s12144-022-02873-x.pdf,1,3,1,both,wellbeing|satisfaction|support,isolation
+s12144-022-03492-2.pdf,2,1,2,both,well-being,conflict|strain
+s12144-023-04250-8.pdf,1,4,3,both,autonomy|engagement|well-being|support,burnout|exhaustion|strain
+s12599-024-00866-7.pdf,5,0,2,risk_only,,surveillance|monitoring
+s12889-024-18178-6.pdf,1,3,1,both,well-being|satisfaction|support,stress
+s40299-022-00706-w.pdf,1,2,2,both,autonomy|flexibility,burnout|exhaustion
+s41598-024-63518-6.pdf,4,1,5,both,satisfaction,burnout|isolation|conflict|stress|loneliness
+s44202-025-00342-7.pdf,2,7,3,both,autonomy|flexibility|engagement|well-being|productivity|satisfaction|support,conflict|exhaustion|stress
+shah-et-al-2024-unlocking-the-work-life-equation-critical-analysis-of-telework-factors-for-optimal-balance-in-the-it.pdf,1,4,0,benefit_only,engagement|productivity|support|commitment,
+socsci-13-00036.pdf,0,1,3,both,well-being,conflict|stress|strain
+sokolic-2022-remote_work_and_hybrid_work-efri_5505-publishedversion-blfu2z-s.pdf,2,1,0,benefit_only,flexibility,
+ssrn-4092787.pdf,5,1,1,both,support,monitoring
+ssrn-4518524.pdf,2,0,5,risk_only,,technostress|fatigue|isolation|conflict|stress
+ssrn-4810633.pdf,1,2,1,both,autonomy|productivity,monitoring
+ssrn-49323612.pdf,0,5,1,both,autonomy|flexibility|trust|productivity|support,monitoring
+ssrn-5041183.pdf,2,6,0,benefit_only,flexibility|engagement|well-being|productivity|satisfaction|collaboration,
+ssrn-5085236.pdf,0,3,1,both,productivity|collaboration|support,monitoring
+ssrn-5106503.pdf,2,1,2,both,commitment,stress|monitoring
+ssrn-5580850.pdf,3,8,6,both,flexibility|trust|engagement|well-being|productivity|satisfaction|collaboration|commitment,burnout|technostress|fatigue|overload|exhaustion|stress
+ssrn-6107886.pdf,3,7,8,both,autonomy|flexibility|engagement|well-being|satisfaction|collaboration|support,burnout|technostress|fatigue|conflict|exhaustion|stress|monitoring|strain
+sustainability-14-04220-v2.pdf,0,3,1,both,flexibility|productivity|support,monitoring
+sustainability-14-04220.pdf,2,3,0,benefit_only,flexibility|productivity|support,
+sustainability-14-05745.pdf,0,7,3,both,autonomy|flexibility|engagement|well-being|productivity|satisfaction|support,isolation|conflict|stress
+sustainability-14-05778-v2.pdf,0,4,1,both,autonomy|wellbeing|satisfaction|support,stress
+sustainability-14-07146.pdf,0,2,1,both,flexibility|collaboration,isolation
+sustainability-14-11722.pdf,0,8,3,both,autonomy|flexibility|well-being|productivity|satisfaction|collaboration|support|commitment,conflict|stress|monitoring
+sustainability-14-11874-v2.pdf,0,3,3,both,wellbeing|productivity|support,conflict|stress|strain
+sustainability-14-16108.pdf,0,3,0,benefit_only,engagement|productivity|satisfaction,
+sustainability-15-05952-v2.pdf,0,6,2,both,flexibility|belonging|engagement|well-being|satisfaction|support,isolation|stress
+sustainability-15-10631-v2.pdf,0,5,1,both,flexibility|well-being|productivity|satisfaction|commitment,isolation
+sustainability-15-12489.pdf,0,5,4,both,autonomy|productivity|satisfaction|inclusion|support,isolation|overload|conflict|stress
+sustainability-16-08278-v2.pdf,0,4,6,both,flexibility|well-being|productivity|support,fatigue|isolation|conflict|stress|strain|loneliness
+sustainability-17-01342.pdf,0,3,6,both,belonging|well-being|productivity,isolation|conflict|exhaustion|stress|strain|loneliness
+sustainability-17-02830.pdf,0,3,5,both,well-being|productivity|support,burnout|technostress|overload|stress|strain
+sustainability-18-04039.pdf,0,2,1,both,well-being|support,conflict
+systems-10-00134.pdf,0,4,2,both,flexibility|productivity|satisfaction|support,isolation|conflict
+telework_2024_AAM.pdf,1,4,1,both,autonomy|wellbeing|well-being|support,overload
+the-effects-of-being-under-watch-the-impact-of-electronic-monitoring-on-remote-workers-psychological-safety.pdf,0,2,2,both,trust|well-being,surveillance|monitoring
+weisman-et-al-2022-antecedents-of-organizational-identification-a-review-and-agenda-for-future-research.pdf,4,3,0,benefit_only,trust|belonging|commitment,
+zmad007.pdf,0,2,2,both,autonomy|productivity,surveillance|monitoring
+zmad020.pdf,2,1,0,benefit_only,support,
+"Актуальні+питання+економічних+наук_Ortynska,+A.pdf",3,4,2,both,engagement|well-being|productivity|support,monitoring|strain
+“I_have_to_be_always_on”_–_man.pdf,0,3,2,both,flexibility|well-being|support,conflict|strain
+“Technology_is_killing_me!”_t.pdf,0,4,4,both,autonomy|flexibility|well-being|productivity,technostress|isolation|overload|stress

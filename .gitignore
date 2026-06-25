@@ -1,0 +1,35 @@
+# secrets - never commit
+.env
+*.key
+*.rtf
+*ANTHROPIC*
+thekey*
+# copyrighted source PDFs - cannot redistribute
+*.pdf
+# large derived binaries (decide deliberately)
+*.npy
+# python / system cruft
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# LLM scripts - not part of the pure-Python published method
+trust_classify.py
+measured_extract.py
+build_validation.py
+build_coder_sheet.py
+score_validation.py
+measured_extract/
+trust_framing/
+# superseded by pure-python outcome_coder.py
+consolidate.py
+consolidated_outcomes.csv
+org_outcomes.py
+org_outcomes/
+# figures not used in the final paper
+outcome_figures/level_descent.png
+outcome_figures/level_descent.svg
+outcome_figures/valence_by_perspective.png
+outcome_figures/valence_by_perspective.svg
+outcome_figures/heatmap_count.png
+outcome_figures/heatmap_count.svg
+visualize_gradient.py

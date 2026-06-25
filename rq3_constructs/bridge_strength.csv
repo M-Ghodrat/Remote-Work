@@ -1,0 +1,7 @@
+construct,primary_community,connected_communities,bridge_strength_share_outside_primary
+trust,4,0 1 2 3 4 5,0.667
+psychological safety,4,0 1 2 3 4,0.372
+surveillance,5,0 1 2 5,0.438
+autonomy,1,0 1 2 3 4 5,0.734
+belonging,2,0 1 2 3 4,0.595
+technostress,1,0 1 2 3,0.638

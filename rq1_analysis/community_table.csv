@@ -1,0 +1,7 @@
+community,size,pos_score,neg_score,net,orientation,descriptive_label_FILL,theoretical_label_FILL
+0,97,41.186,34.953,6.233,benefit-oriented,,
+1,88,11.615,13.969,-2.354,risk-oriented,,
+2,69,14.377,7.855,6.522,benefit-oriented,,
+3,56,16.69,18.991,-2.3,risk-oriented,,
+4,52,14.361,3.493,10.868,benefit-oriented,,
+5,25,8.952,25.077,-16.125,risk-oriented,,

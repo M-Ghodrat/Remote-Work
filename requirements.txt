@@ -1,0 +1,13 @@
+sentence-transformers==5.5.0
+transformers==5.8.1
+torch==2.12.0
+umap-learn==0.5.12
+leidenalg==0.12.0
+igraph==1.0.0
+networkx==3.6.1
+scikit-learn==1.8.0
+scipy==1.17.1
+numpy==2.2.6
+pandas==2.3.3
+matplotlib==3.10.9
+pdfplumber==0.11.10
