@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "remote-work-review"
+version = "0.1.0"
+description = "Reproducible computational systematic review of remote and hybrid work research"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+  "igraph>=0.11",
+  "leidenalg>=0.10",
+  "matplotlib>=3.8",
+  "networkx>=3.2",
+  "numpy>=1.26",
+  "openpyxl>=3.1",
+  "pandas>=2.1",
+  "pdfplumber>=0.11",
+  "python-louvain>=0.16",
+  "scikit-learn>=1.4",
+  "sentence-transformers>=3.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
