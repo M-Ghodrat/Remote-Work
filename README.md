@@ -1,45 +1,106 @@
-# Computational Systematic Review of the Remote and Hybrid Work Literature
+# Remote Work Computational Review
 
-Code and derived data for a computational systematic review of the remote and
-hybrid work literature (2022-2026), mapping a corpus of 387 papers using
-document embeddings, community detection, concept-network analysis, and
-codebook-based outcome coding.
+A reproducible pipeline for the computational systematic review of remote and
+hybrid work research. One entry point (`main.py`) validates the corpus, builds
+document embeddings, detects paper communities, analyzes constructs and
+benefit/risk prevalence, codes outcomes, builds the JD-R network, and renders
+figures.
+
+## Canonical corpus
+
+`data/corpus_index.csv` is the reconciled 389-paper index. Every filename in
+this index was verified against the source collection. Source PDFs are
+copyrighted and are intentionally excluded from Git.
+
+The older 387-paper repository supplied the most complete analysis code. The
+389-paper index supplies the canonical corpus. The later 390-paper experiment
+was not selected because its index contains a nonexistent `paper.pdf` entry.
+
+## Quick start
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -e .
+python main.py run-all --pdf-dir "/absolute/path/to/RemoteWork/pdfs"
+```
+
+The default output directory is `outputs/canonical_389`. Existing expensive
+artifacts are reused. Pass `--force` to rebuild them.
+
+To inspect the execution plan without running analysis:
+
+```bash
+python main.py run-all --pdf-dir "/absolute/path/to/RemoteWork/pdfs" --dry-run
+```
+
+## Run one stage
+
+```bash
+python main.py prepare      --pdf-dir /path/to/pdfs
+python main.py embed        --pdf-dir /path/to/pdfs
+python main.py communities  --pdf-dir /path/to/pdfs
+python main.py constructs   --pdf-dir /path/to/pdfs
+python main.py prevalence   --pdf-dir /path/to/pdfs
+python main.py outcomes     --pdf-dir /path/to/pdfs
+python main.py jdr          --pdf-dir /path/to/pdfs
+python main.py figures      --pdf-dir /path/to/pdfs
+```
+
+Each stage runs its prerequisites and reuses completed outputs. Both SPECTER
+and MPNet can be selected with `--model specter|mpnet`; downstream historical
+figures currently expect SPECTER.
 
 ## Pipeline
 
-Run in order:
+```text
+PDFs + canonical index
+        |
+        v
+document embeddings
+        |
+        v
+paper kNN network + Leiden communities (RQ1/RQ2)
+        |------------------|------------------|
+        v                  v                  v
+construct network     benefit/risk       outcome coding
+(RQ3)                 co-presence (RQ4)  and firm gap
+        |                  |                  |
+        +------------------+------------------+
+                           |
+                           v
+                    figures and tables
 
-1. `analyze_communities.py`  - SPECTER embeddings, kNN graph, Leiden community detection (RQ1)
-2. `rq3_constructs.py`       - concept co-occurrence network and construct centrality (RQ3)
-3. `rq4_prevalence.py`       - per-paper benefit/risk co-presence (RQ4)
-4. `outcome_coder.py`        - codebook-based outcome coding (coverage and firm-level gap)
-5. `firm_gap.py`             - firm-level coverage figure
-6. visualization scripts     - `visualize_network.py`, `visualize_rq3.py`, `visualize_rq4.py`
+PDFs ------------------------------------------------> JD-R construct network
+```
 
-## Key outputs (derived data)
+## Reproducibility note
 
-- `corpus_index.csv`            - the 387-paper corpus index
-- `rq1_analysis/communities.csv`- community assignments
-- `rq3_constructs/concept_centrality.csv` - construct centrality
-- `rq4_prevalence/copresence_distribution.csv` - benefit/risk co-presence
-- `outcome_coding.csv`          - per-paper outcome coding (from outcome_coder.py)
+The original program that generated the historical embedding arrays was not
+present in the research folder. `src/remote_work/embeddings.py` reconstructs
+that missing stage using `allenai/specter` or
+`sentence-transformers/all-mpnet-base-v2`, four leading PDF pages, normalized
+embeddings, and index-order alignment. This is a documented reconstruction,
+not a claim that the missing historical implementation is byte-identical.
 
-## Outcome codebook
+The repository retains the research scripts under `scripts/` so the analytical
+rules remain auditable. `main.py` supplies portable paths and orchestration;
+no script depends on the former `~/Desktop/MyResearch/RemoteWork` location.
 
-The outcome codebook is defined explicitly inside `outcome_coder.py` as a set of
-constructs, each with its surface forms, organized into employee-level,
-organization-level, and organizational-control categories. A paper is coded as
-engaging a construct when any of that construct's forms appears in the scanned
-text. The method records thematic engagement (presence), not empirical
-measurement; coverage figures are an upper bound on substantive treatment.
+## Main outputs
 
-## Requirements
+- `rq1_analysis/`: communities, centralities, profiles
+- `rq3_constructs/`: concept network and construct centralities
+- `rq4_prevalence/`: benefit/risk co-presence and sensitivity thresholds
+- `outcome_coding.csv`: per-paper outcome engagement
+- `outcome_figures/` and `outcome_networks/`: outcome results
+- `jdr/`: construct presence, JD-R nodes, edges, and figure
 
-See `requirements.txt`. Core dependencies: sentence-transformers, umap-learn,
-leidenalg, python-igraph, networkx, scikit-learn, scipy, numpy, pandas,
-matplotlib, pdfplumber.
+## Tests
 
-## Note on the corpus
+```bash
+python -m unittest discover -s tests
+```
 
-The source PDFs are copyrighted and are not redistributed in this repository.
-The corpus index lists the included papers by identifier.
+The tests cover the most important preflight guard: the corpus index must be
+unique and every indexed PDF must exist before expensive analysis starts.
